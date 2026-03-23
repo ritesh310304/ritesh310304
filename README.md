@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Ritesh Kumar Nayak  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -58,13 +58,13 @@
 - 🔹 Data Analysis Projects  
 - 🔹 Machine Learning Models  
 - 🔹 Real-world datasets exploration  
-*(Add your project links here)*  
+ 
 
 ---
 
 ## 🌐 Connect With Me  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ritesh-kumar-nayak-a09749205/ 
+- 📧 Email: riteshnayakbrjn@gmail.com  
 
 ---
 
