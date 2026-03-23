@@ -1,10 +1,84 @@
-- 👋 Hi, I’m @ritesh310304
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hey there, I'm Ritesh Kumar Nayak  
 
-<!---
-ritesh310304/ritesh310304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Things" />
+</p>
+
+---
+
+## 🚀 About Me  
+- 🎓 Final Year Graduate in Data Science  
+- 💡 Passionate about turning data into insights  
+- 🔍 Interested in Machine Learning, AI & Analytics  
+- 🌱 Currently improving my problem-solving skills  
+- ⚡ Love exploring new technologies and tools  
+
+---
+
+## 🧠 Currently Learning  
+- 🤖 Machine Learning & Deep Learning  
+- 📊 Advanced Data Analysis  
+- 🐍 Python Libraries (Pandas, NumPy, Scikit-learn)  
+- 🗄️ SQL & Database Management  
+- 📈 Data Visualization (Power BI, Matplotlib)  
+
+---
+
+## 💼 Tech Stack  
+
+### 👨‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### 📊 Data & Tools  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)  
+
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh310304&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh310304&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+- 🔹 Data Analysis Projects  
+- 🔹 Machine Learning Models  
+- 🔹 Real-world datasets exploration  
+*(Add your project links here)*  
+
+---
+
+## 🌐 Connect With Me  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: your-email@example.com  
+
+---
+
+## 🎯 Goals for 2026  
+- 🚀 Become a skilled Data Scientist  
+- 📂 Build strong portfolio projects  
+- 🌍 Contribute to Open Source  
+- 💼 Get placed in a top tech company  
+
+---
+
+## ⚡ Fun Fact  
+> "Small steps every day lead to big results." 🚀  
+
+---
+
+⭐️ From [ritesh310304](https://github.com/ritesh310304)
